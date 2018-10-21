@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="THPages.FadeManager" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IASKAECAAEGAAwAAAAAAAAAAIAAAEgAAAIIAgAAAAAw=</HashCode>
+      <FileName>MainController\FadeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.PageManager" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAQAAAAjwAABAACAAAQAAAIAAAAAAAAAICAAAU=</HashCode>
+      <FileName>MainController\PageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.FadeStyle" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainController\FadeStyle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.Pages.ConfigPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAIEIAAAEABgJBACAgIAAIAAAAIAAAIAAEIAAAACw=</HashCode>
+      <FileName>Pages\ConfigPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.Pages.TestPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAIEIAAAEABgBBACAgAAAIAAAAIAAAIAAEAAAAAAw=</HashCode>
+      <FileName>Pages\TestPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.Pages.HiScorePage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQIIEIAAAEABgJBACAgIAAIAAAAIAAAIAAEIAEAACw=</HashCode>
+      <FileName>Pages\HiScorePage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.Pages.MainGamePage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQEMEIAAQMABghBACAgAAAIAAAAIARAIACEIAhAABw=</HashCode>
+      <FileName>Pages\MainGamePage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.Pages.MainMenuPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAIEIAAAEIBgJBACAgAAAIAAAAIAAAIACEIABBACw=</HashCode>
+      <FileName>Pages\MainMenuPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.Pages.StaffPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAIEIAAAEABgJBACQgAAAIAAAAIAAAIAAEAAAAAAw=</HashCode>
+      <FileName>Pages\StaffPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.Pages.TestMenuPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAIEIAAAEABgBBACAgAAAIAAAAIAAAIAAEIAAAACw=</HashCode>
+      <FileName>Pages\TestMenuPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THMenuset.Menu.VolumeScrollMenuItem" Collapsed="true">
+    <Position X="1.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAiAAAAAAAAAAAAAAACEAAAABAAAAAAA=</HashCode>
+      <FileName>Menu\BasicMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.BasicMenuItem" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\VolumeScrollMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.Arrow" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIACACAAAEAAAI=</HashCode>
+      <FileName>Menu\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.Menu" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IqQAAGAAAAEAAxAgAAAAAAQAAAAAAIAAEEABAAAAACw=</HashCode>
+      <FileName>Menu\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.MenuBuilder" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAgBgAAAAgAIABCAAAAAEAA=</HashCode>
+      <FileName>Menu\MenuBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.MenuItem" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAACCAAAAkgAgAAAQAAQgAAAAAAIAAACBhABAAAA=</HashCode>
+      <FileName>Menu\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.LongCounterDisplay" Collapsed="true">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAgAAAABAIAAAAAAAAAAAAAAAAgAAAgA=</HashCode>
+      <FileName>Wids\Counter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.NumberCounterDisplayStyle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYBAQAAABAAAgACABAAAAAAEEAAAgEABAAAAAACAIE=</HashCode>
+      <FileName>Wids\Counter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.StarLevelCounterDisplayStyle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAQAAABACAgACABAAAAAAEEAAAgAABAAAAAACAIE=</HashCode>
+      <FileName>Wids\Counter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.CounterChangeEventArgs" Collapsed="true">
+    <Position X="1.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wids\Counter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.Program" Collapsed="true">
+    <Position X="3.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.KeyConfig" Collapsed="true">
+    <Position X="7.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAIAAAAAAQAAAAAAAAAAACAAAEAAA=</HashCode>
+      <FileName>KeyConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.GameConfig" Collapsed="true">
+    <Position X="5.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABIIAAACIAAAAAAAAAAAAAAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>KeyConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.hiscoredata" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAACIAgAAAAAEAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>KeyConfig.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="THPages.hiscorestorage" Collapsed="true">
+    <Position X="5.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAIAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>KeyConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THPages.Game1" Collapsed="true">
+    <Position X="3.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgEEAAACAAAwAAAAAAAQAAAAAoAAgAAAAAAADCAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="THPages.IPage" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAIAAAAABABAAAAgAAAIAAAAIAAAIAAEAAAAAAA=</HashCode>
+      <FileName>MainController\IPage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="THPages.CounterDisplayStyle" Collapsed="true">
+    <Position X="1.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wids\Counter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="THPages.FadeState" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>MainController\FadeManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="THMenuset.Menu.MenuItemState" Collapsed="true">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEEAAI=</HashCode>
+      <FileName>Menu\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="THPages.longCounterDelegate" Collapsed="true">
+    <Position X="1.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wids\Counter.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

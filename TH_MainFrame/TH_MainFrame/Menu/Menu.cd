@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="THMenuset.Menu.Menu" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKQAAEAAAAEAAxAgAAAAAAQAAAAAAAAAEAABAAAAACw=</HashCode>
+      <FileName>Menu\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.MenuBuilder" Collapsed="true">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAIAAgBgAAAAAAIAACAAAAAEAA=</HashCode>
+      <FileName>Menu\MenuBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.MenuItem" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAACCAAAAkgAgAAAQAAQgAAAAAAIAAACAhABAAAA=</HashCode>
+      <FileName>Menu\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.BasicMenuItem" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\BasicMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="THMenuset.Menu.Arrow" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIACACAAAEAAAI=</HashCode>
+      <FileName>Menu\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="THMenuset.Menu.MenuItemState" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEEAAI=</HashCode>
+      <FileName>Menu\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
